@@ -1,5 +1,5 @@
 # My-Projects-Contributions--Blockgames
-Links to my contributions in code to my team in   
+Links to my contributions   
 
 ## Nestcoin Cinemas Project  
 link: https://github.com/Blockchamp/Block-Fe/commit/293f2db2bc5d9ebea5014dc595d8f8b6793e169f  
